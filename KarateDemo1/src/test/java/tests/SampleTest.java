@@ -80,6 +80,6 @@ class SampleTest {
 		// and here validate 'result' to decide what to do if report has failed
 		
 	}
-
+//
 }
 */

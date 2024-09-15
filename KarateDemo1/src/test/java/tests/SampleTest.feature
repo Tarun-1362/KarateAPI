@@ -10,6 +10,7 @@ Feature: Sample tests
   Scenario: 3rd Test
     Given print 'I am inside 3rd test'
 
+
   @first @second
   Scenario: 4th Test
     Given print 'I am inside 4th test'
