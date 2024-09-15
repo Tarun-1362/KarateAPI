@@ -8,7 +8,7 @@ import com.intuit.karate.junit5.Karate;
 import com.intuit.karate.junit5.Karate.Test;
 /*
 class SampleTest {
-
+//
 	//	@Karate.Test
 	//	Karate testSample1() {
 	//		return Karate.run("SampleTest").relativeTo(getClass());
